@@ -3,6 +3,9 @@
 ### Emily Lin (emilyl9154@hstat.org)
 #### Student in High School of Telecommunication Arts and Technology
 
+### Bio
+I'm a software engineering student in HSTAT.
+
 ### Schedule
 1. Algebra 2
 2. Chemistry
