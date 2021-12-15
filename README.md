@@ -1,7 +1,7 @@
 # about-me
 
 ### Emily Lin 
-##### emilyl9154@hstat.org
+##### _emilyl9154@hstat.org_
 #### Student in High School of Telecommunication Arts and Technology
 
 ### Bio
