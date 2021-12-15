@@ -8,6 +8,8 @@
 I'm a **software engineering student** in HSTAT.
 
 ### Schedule
+**2021 schedule**  
+(this will change next semester)
 1. Algebra 2
 * Room 233
   * 2nd floor
