@@ -2,7 +2,7 @@
 
 ### Emily Lin 
 ##### _emilyl9154@hstat.org_
-#### Student in High School of Telecommunication Arts and Technology
+#### Student in [High School of Telecommunication Arts and Technology](https://www.hstat.org/)
 ---
 ### Bio
 I'm a **software engineering student** in HSTAT.
