@@ -5,7 +5,7 @@
 #### Student in High School of Telecommunication Arts and Technology
 ---
 ### Bio
-I'm a software engineering student in HSTAT.
+I'm a **software engineering student** in HSTAT.
 
 ### Schedule
 1. Algebra 2
